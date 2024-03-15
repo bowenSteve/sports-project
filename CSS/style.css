@@ -1,0 +1,16 @@
+table {
+    width: 20%
+  }
+  
+  td {
+    text-align: center;
+    padding: 10px;
+  }
+  tr {
+    font-weight: bolder;
+    font-size: larger;
+  }
+  img {
+    max-width: 50px;
+    height: auto;
+  }
